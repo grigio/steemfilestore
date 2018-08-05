@@ -1,10 +1,10 @@
 # STEEMfilestore
 
-![schermata da 2018-07-07 12-14-08](https://user-images.githubusercontent.com/8074/42409753-516e04c8-81df-11e8-9d60-823fe4909d75.png)
+![schermata da 2018-07-07 12-14-08](https://raw.githubusercontent.com/grigio/steemfilestore/master/test/steemfilestore.png)
 
 ### Immutable, censorship resistant, cheap, time proof, file storage on STEEM blockchain
 
-STEEMfilestore uploads files on STEEM blockchain as multiple transactions (actions), it doesn't cost STEEM but you need enough staking in CPU and NET.
+STEEMfilestore uploads files on STEEM blockchain as multiple transactions, it doesn't cost STEEM but you need enough staking NET.
 
 
 ## Installation
